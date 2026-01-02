@@ -5,7 +5,7 @@
 <h3 align="center" style="color:#9da7b1;">Senior Full Stack Software Engineer</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/WzzmSg6F/pic.png" width="400" height="400" />
+  <img src="https://i.postimg.cc/L5Nt5PQW/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif" width="400" height="400" />
 </p>
 
 ---
