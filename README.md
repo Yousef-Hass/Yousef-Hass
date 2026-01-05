@@ -36,7 +36,6 @@ Most professional contributions are proprietary and cannot be shared publicly.
 
 ## Tools I’ve Worked With
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://docs.amplify.aws/assets/logo-dark.svg" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
