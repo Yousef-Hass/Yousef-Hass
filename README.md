@@ -17,14 +17,6 @@ I work across complex domains, focus on reliability and clarity, and deliver sof
 This profile highlights public work, experimentation, and learning.  
 Most professional contributions are proprietary and cannot be shared publicly.
 
----
-
-- 🔭 I’m currently working on [ThirdHome](http://www.thirdhome.com)
-
-- 👨‍💻 All of my projects are available at [https://yousafwork.lovable.app/](https://yousafwork.lovable.app/)
-
-- 📫 How to reach me **yousafzayd01@gmail.com**
-
 ## What Recruiters Should Know
 
 - Experience delivering and maintaining production systems
